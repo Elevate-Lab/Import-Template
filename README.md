@@ -2,11 +2,18 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-A template repo for making our lives easier
+A template repo for making our lives easier 🐬
+
+## Welcome to Elevate labs 🚀
+
+> Elevate Labs is here to make a change. We believe in contributing towards the community through technology.
+ We also believe in the strength of team! If you too want to be a part of change, we are happy to have you on-board 🥳
+
+ Anyone and everyone is welcomed!:sunglasses:
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
