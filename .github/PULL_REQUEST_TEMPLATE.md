@@ -1,9 +1,9 @@
 # Pull Request 
 
 ## Proposed Changes
-Give a summary of the changes made in the repository and the issues fixed. List the dependencies used. Also mention the issue number.
-- Change 1 [Fixes #(issue)]
-- Change 2 [Fixes #(issue)]
+- Give a summary of the changes made in the repository. 
+- List the dependencies used. 
+- Also mention the issue number [Fixes #(issue)].
 
 ## Types of changes made
 - [ ] Fixed Bug
@@ -27,7 +27,7 @@ Describe the tests that you ran to verify the changes made. Mention the tests fo
 - Toolchain: 
 - SDK: 
 
-## Screenshots
+## Screenshots or GIFs (*if any*)
 Attach screenshots of the changes made for easy reference.
 Original | Updated
 :-----:|:-----:
