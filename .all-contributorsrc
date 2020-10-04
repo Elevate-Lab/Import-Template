@@ -31,6 +31,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "deepakDOTexe",
+      "name": "Deepak Katre",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/46655706?v=4",
+      "profile": "https://github.com/deepakDOTexe",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
