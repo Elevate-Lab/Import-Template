@@ -1,6 +1,6 @@
 ---
 name: "Bug Report 🐛"
-about: Found one? Let us now!
+about: Found one? Let us know!
 title: ''
 labels: 'type:Bug'
 assignees: ''
